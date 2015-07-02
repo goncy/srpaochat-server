@@ -1,6 +1,6 @@
 {
-  "name": "argenchat",
-  "description": "Instachat",
+  "name": "srpaochat",
+  "description": "srpaochat",
   "version": "0.0.3",
   "engines": {
     "node": "0.10.x"
